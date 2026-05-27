@@ -1,0 +1,6 @@
+{
+  "name": "Pengumuman TKA SDN 1 Asembagus",
+  "description": "Aplikasi Pengumuman Hasil Tes Kemampuan Akademik (TKA) SDN 1 Asembagus Tahun 2026. Murid dapat login menggunakan nomor peserta dan mengunduh hasil dalam format PDF formal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
